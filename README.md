@@ -1,4 +1,5 @@
-- 👋 Sup, I’m @ethank64
+- 👋 Hello all, I’m @ethank64
+- Computer Science & Artificial Intelligence double major at Ohio University.
 - 📫 How to reach me: eknotts64@gmail.com or ek792523@ohio.edu
 
 <!---
