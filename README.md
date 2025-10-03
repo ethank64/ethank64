@@ -37,6 +37,7 @@
 
   <!-- Platforms & Tools -->
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
 </p>
