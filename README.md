@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm Ethan</h1>
-<h3 align="center">Computer Science Student @ Ohio University</h3>
+<h3 align="center">Computer Science Student @ Ohio University (Go Bobcats!)</h3>
 
 ---
 
